@@ -6,6 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jose RamirezOz",
+  "author": "Jose Ramirez <albertoramirezq@outlook.com>",
   "license": "MIT"
 }
